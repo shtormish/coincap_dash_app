@@ -1,5 +1,9 @@
 # Dash App test
 
+Test dash visualisation with coincap API. No API credential needed.
+
+
+
 ## Running the app
 
 Run the following commands and open the local host web address chosen by Dash.
